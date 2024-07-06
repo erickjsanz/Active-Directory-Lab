@@ -97,7 +97,7 @@ In this lab, I used two virtual machines on VirtualBox to simulate an Active Dir
 ## Step 7: Create Users with PowerShell Script
 1. On DomainController VM
 2. We will use a PowerShell script to add 1,000 users to Active Directory. To streamline this process, a random name generator script was used to populate a .txt file with the 1,000 names. This file will be referenced in the PowerShell script for user creation.
-- [PowerShell script and name.txt file](file)
+- [PowerShell script and name.txt file](https://github.com/erickjsanz/PowerShell-Files))
 - Important: Ensure to set the execution policy to unrestricted before running the PowerShell script:
 ![Screenshot 2024-06-30 225752](https://github.com/erickjsanz/Active-Directory-Lab/assets/7691426/2ff1eaa9-3b57-4a27-a5e4-c046fa596c0e)
 
